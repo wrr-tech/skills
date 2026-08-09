@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 论文学习笔记"
+  short_description: "将 AI 论文转成可理解、可验证、可持续复习的中文笔记"
+  default_prompt: "使用 $ai-paper-notes 将这篇 AI 论文整理成有来源依据、便于理解和复习的中文学习笔记。"
